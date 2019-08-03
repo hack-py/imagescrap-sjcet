@@ -11,3 +11,5 @@ python3 clg.py
  
  
  [+] successfully captured *******.jpg
+
+note:image will be saved in current working directory
